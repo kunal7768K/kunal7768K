@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kunal fulmali</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **JAVA , DSA, AI**
+- 🌱 I’m currently learning **Java Full Stack , DSA, AI**
 
 - 📫 How to reach me **kunalfulmali99@gmail.com**
 
